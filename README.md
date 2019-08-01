@@ -1,2 +1,2 @@
 # QRCodeReaderAadhaarCardPdf
-Read QR code of Aadhaar Pdf after comvert to PNG image format
+Read QR code of Aadhaar Pdf after converting to PNG image format.
